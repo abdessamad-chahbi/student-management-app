@@ -1,4 +1,3 @@
-```markdown
 # 🎓 Web Application for Student Management
 
 > 🎯 Designed and developed a Spring Boot web application for managing student data with secure role-based access. Integrated Thymeleaf, Bootstrap, MongoDB, and REST APIs for CRUD operations.
