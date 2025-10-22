@@ -242,4 +242,3 @@ Repository: https://github.com/abdessamad-chahbi/student-management-app
 Author: `abdessamad-chahbi`
 
 ---
-```
